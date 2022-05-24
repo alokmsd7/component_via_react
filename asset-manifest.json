@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day_restro/static/css/main.17655c3c.css",
+    "main.js": "/day_restro/static/js/main.eb789599.js",
+    "index.html": "/day_restro/index.html",
+    "main.17655c3c.css.map": "/day_restro/static/css/main.17655c3c.css.map",
+    "main.eb789599.js.map": "/day_restro/static/js/main.eb789599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.eb789599.js"
+  ]
+}
